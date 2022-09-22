@@ -6,7 +6,7 @@ function About() {
       <h1> About</h1>
       <a href="/contact">Contact</a>
       <br />
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
     </div>
   );
 }
